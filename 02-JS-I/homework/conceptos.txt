@@ -1,0 +1,11 @@
+Variables: Las variables nos permiten almacenar datos que pueden ser referenciados, 
+	para lectura y escritura, en distintos lugares de un script.
+Strings: Un string es basicamente texto, es decir, una cadena de caracteres.
+Funciones: Una función es una porción de código que realiza una determinada tarea y que define una define lista de argumentos 
+	para usarse dentro de dicha función. La palabra reservada 'return' se usa para que la función devuelva un valor.
+	Además puede ser invocada en diferentes puntos de un script.
+Declaraciones 'if': es una palabra reservada que permite definir una bifurcación en el flujo del script. 
+	La sentencia evalua una expresión booleana y en caso de ser 'true' ejecuta un determinado bloque de código.
+Valores booleanos: los booleanos se usan para representar uno de dos estados posibles.
+	
+
