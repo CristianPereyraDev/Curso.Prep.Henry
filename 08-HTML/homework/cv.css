@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    background-color: whitesmoke;
+}
+h1, h2, h3 {
+    color: gray;
+}
+#container {
+   height: 100%; 
+}
+#profile-image-container {
+    text-align: center;
+}
+#profile-image {
+    width: 100px;
+}
+#left-column {
+    background-color: dimgray;
+    float: left;
+    width: 250px;
+    padding: 10px;
+}
+#right-column {
+    float: left;
+    padding: 10px;
+}
+#footer {
+    clear: left;
+}
